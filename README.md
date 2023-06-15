@@ -1,0 +1,1 @@
+Final Project for the Robotics course @ University of Pisa, a.y. 2022-2023. The project consists in designing and implementing a Convolutional Neural Network for predicting the position of a soft robotic arm.
