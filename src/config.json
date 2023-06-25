@@ -1,0 +1,8 @@
+{
+  "rgb_terminals": [255, 255, 255],
+  "background_rgb": [0.4, 0.4, 0.4],
+  "plane": "wood",
+  "monochromatic_rgb": [0.2, 0.2, 0.8],
+  "wood_pigment": "White_Wood",
+  "spherical": false
+}

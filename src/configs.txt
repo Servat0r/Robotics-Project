@@ -1,0 +1,80 @@
+{
+  "rgb_terminals": [0, 0, 128],
+  "background_rgb": [1, 1, 1],
+  "plane": "monochromatic",
+  "monochromatic_rgb": [0.2, 0.8, 0.2],
+  "wood_pigment": "Dark_Wood",
+  "spherical": false
+}
+{
+  "rgb_terminals": [0, 0, 128],
+  "background_rgb": [1, 1, 1],
+  "plane": "monochromatic",
+  "monochromatic_rgb": [0.8, 0.2, 0.2],
+  "wood_pigment": "Dark_Wood",
+  "spherical": false
+}
+{
+  "rgb_terminals": [0, 0, 128],
+  "background_rgb": [1, 1, 1],
+  "plane": "checker",
+  "monochromatic_rgb": [0.8, 0.2, 0.2],
+  "wood_pigment": "Dark_Wood",
+  "spherical": false
+}
+{
+  "rgb_terminals": [0, 0, 128],
+  "background_rgb": [0.5, 0.5, 0.5],
+  "plane": "wood",
+  "monochromatic_rgb": [0.8, 0.2, 0.2],
+  "wood_pigment": "Dark_Wood",
+  "spherical": false
+}
+{
+  "rgb_terminals": [0, 0, 128],
+  "background_rgb": [0.4, 0.4, 0.4],
+  "plane": "checker",
+  "monochromatic_rgb": [0.8, 0.2, 0.2],
+  "wood_pigment": "Dark_Wood",
+  "spherical": false
+}
+{
+  "rgb_terminals": [0, 128, 0],
+  "background_rgb": [0.0, 0.0, 0.0],
+  "plane": "wood",
+  "monochromatic_rgb": [0.8, 0.2, 0.2],
+  "wood_pigment": "Cherry_Wood",
+  "spherical": false
+}
+{
+  "rgb_terminals": [64, 0, 0],
+  "background_rgb": [0.2, 0.2, 0.2],
+  "plane": "checker",
+  "monochromatic_rgb": [0.8, 0.2, 0.2],
+  "wood_pigment": "Cherry_Wood",
+  "spherical": false
+}
+{
+  "rgb_terminals": [64, 0, 0],
+  "background_rgb": [0.9, 0.9, 0.9],
+  "plane": "wood",
+  "monochromatic_rgb": [0.8, 0.2, 0.2],
+  "wood_pigment": "Tan_Wood",
+  "spherical": false
+}
+{
+  "rgb_terminals": [0, 0, 0],
+  "background_rgb": [0.5, 0.5, 0.5],
+  "plane": "monochromatic",
+  "monochromatic_rgb": [0.2, 0.2, 0.8],
+  "wood_pigment": "Tan_Wood",
+  "spherical": false
+}
+{
+  "rgb_terminals": [255, 255, 255],
+  "background_rgb": [0.4, 0.4, 0.4],
+  "plane": "wood",
+  "monochromatic_rgb": [0.2, 0.2, 0.8],
+  "wood_pigment": "White_Wood",
+  "spherical": false
+}
