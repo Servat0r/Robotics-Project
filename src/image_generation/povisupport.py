@@ -1,4 +1,4 @@
-from povwriter import *
+from .povwriter import *
 import numpy as np
 
 

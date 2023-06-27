@@ -1,10 +1,9 @@
 import json
-
 import numpy as np
 import sys
 from tqdm import tqdm
-from povwriter import *
-from povisupport import *
+from .povwriter import *
+from .povisupport import *
 
 
 """
