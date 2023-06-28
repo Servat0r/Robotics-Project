@@ -14,7 +14,7 @@ Generates .POV files that can be rendered.
 def cnn_generate_images(data_path=None, json_config=None):
     data_path = data_path if data_path is not None else \
         'C:/Users/Amministratore/PycharmProjects/RoboticsProject/data/motion/ws_0.5.npz'
-    json_config = json.load(open(json_config, 'r')) if json_config and isinstance(json_config, str) else \
+    json_config = json_config if json_config else \
         {
             "rgb_terminals": [0, 0, 128],
             "background_rgb": [1, 1, 1],
