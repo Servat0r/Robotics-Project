@@ -18,23 +18,3 @@
 [2023-06-28 18:12:45.955074] 8-th image dataset generation completed
 [2023-06-28 18:12:45.955074] 9-th configuration: '{'rgb_terminals': [146, 177, 42], 'background_rgb': [0.11141509198032673, 0.705032786320699, 0.7054234125617455], 'plane': 'wood', 'monochromatic_rgb': [0.49329619882583076, 0.752235059528346, 0.32021118628747003], 'wood_pigment': 'White_Wood', 'spherical': False}'
 [2023-06-28 18:21:23.628003] 9-th image dataset generation completed
-[2023-06-28 18:21:23.628003] 10-th configuration: '{'rgb_terminals': [179, 37, 147], 'background_rgb': [0.058179166093531354, 0.7671225811693998, 0.09024288891653742], 'plane': 'wood', 'monochromatic_rgb': [0.5908893375296475, 0.781407771923541, 0.038826284537205824], 'wood_pigment': 'Tan_Wood', 'spherical': False}'
-[2023-06-28 18:28:59.980065] 10-th image dataset generation completed
-[2023-06-28 18:28:59.980065] 11-th configuration: '{'rgb_terminals': [205, 118, 64], 'background_rgb': [0.17590672542175778, 0.7985489589545355, 0.9492302614801157], 'plane': 'wood', 'monochromatic_rgb': [0.9383024514777505, 0.0925073748485864, 0.3804895750429731], 'wood_pigment': 'Dark_Wood', 'spherical': False}'
-[2023-06-28 18:36:02.911528] 11-th image dataset generation completed
-[2023-06-28 18:36:02.911528] 12-th configuration: '{'rgb_terminals': [247, 203, 76], 'background_rgb': [0.14971802093659048, 0.3067444445618738, 0.04843489025304948], 'plane': 'wood', 'monochromatic_rgb': [0.6572340366373135, 0.3644248451797897, 0.30662205659208386], 'wood_pigment': 'White_Wood', 'spherical': False}'
-[2023-06-28 18:44:36.668941] 12-th image dataset generation completed
-[2023-06-28 18:44:36.669941] 13-th configuration: '{'rgb_terminals': [86, 61, 99], 'background_rgb': [0.2110951120010709, 0.6823003771831934, 0.4510234650792576], 'plane': 'monochromatic', 'monochromatic_rgb': [0.1785940020084149, 0.4346486417096509, 0.20228985647988573], 'wood_pigment': 'White_Wood', 'spherical': False}'
-[2023-06-28 18:51:28.540188] 13-th image dataset generation completed
-[2023-06-28 18:51:28.541194] 14-th configuration: '{'rgb_terminals': [58, 169, 84], 'background_rgb': [0.577803775651497, 0.05803953873848111, 0.2767802941489341], 'plane': 'checker', 'monochromatic_rgb': [0.8128945693709272, 0.767583147894769, 0.9800168135943874], 'wood_pigment': 'Tan_Wood', 'spherical': False}'
-[2023-06-28 18:58:40.675990] 14-th image dataset generation completed
-[2023-06-28 18:58:40.675990] 15-th configuration: '{'rgb_terminals': [210, 16, 147], 'background_rgb': [0.989948825265094, 0.8273052393852752, 0.7048257946539399], 'plane': 'monochromatic', 'monochromatic_rgb': [0.5677680499058448, 0.24959233120585256, 0.6431608210427645], 'wood_pigment': 'White_Wood', 'spherical': False}'
-[2023-06-28 19:05:08.556286] 15-th image dataset generation completed
-[2023-06-28 19:05:08.557283] 16-th configuration: '{'rgb_terminals': [122, 169, 40], 'background_rgb': [0.09256914003322814, 0.773845725378793, 0.584489767547038], 'plane': 'wood', 'monochromatic_rgb': [0.5052389714263125, 0.5057306237045389, 0.13938633638202624], 'wood_pigment': 'White_Wood', 'spherical': False}'
-[2023-06-28 19:13:23.065331] 16-th image dataset generation completed
-[2023-06-28 19:13:23.065331] 17-th configuration: '{'rgb_terminals': [212, 148, 204], 'background_rgb': [0.09347826379246305, 0.6278802864974817, 0.9064859099342455], 'plane': 'checker', 'monochromatic_rgb': [0.16714810151752768, 0.2612012328345954, 0.36478353119741136], 'wood_pigment': 'Cherry_Wood', 'spherical': False}'
-[2023-06-28 19:18:49.865044] 17-th image dataset generation completed
-[2023-06-28 19:18:49.865044] 18-th configuration: '{'rgb_terminals': [154, 218, 45], 'background_rgb': [0.3355278326250005, 0.9131378117697615, 0.17355663426372725], 'plane': 'wood', 'monochromatic_rgb': [0.4356584198342286, 0.7218440069960883, 0.271386752783242], 'wood_pigment': 'White_Wood', 'spherical': False}'
-[2023-06-28 19:24:54.804245] 18-th image dataset generation completed
-[2023-06-28 19:24:54.810873] 19-th configuration: '{'rgb_terminals': [29, 2, 21], 'background_rgb': [0.6590804638319949, 0.9646331525436758, 0.9721621382412049], 'plane': 'wood', 'monochromatic_rgb': [0.7784376169599656, 0.43938535836206893, 0.3262294445545162], 'wood_pigment': 'Dark_Wood', 'spherical': False}'
-[2023-06-28 19:29:58.429334] 19-th image dataset generation completed
